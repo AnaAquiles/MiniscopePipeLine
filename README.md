@@ -1,5 +1,5 @@
 ### 🎯 Overview  
-Welcome to the **Miniscope Pipeline** — a toolkit designed to bridge the gap between **INSCOPIX** data formats and **custom miniscope analysis**.  
+This **Miniscope Pipeline** — is a toolkit designed to bridge the gap between **INSCOPIX** data formats and **custom miniscope analysis**.  (it will be upgraded soon)
 
 This repository provides:  
 - 🧩 **Conversion tools** to transform `.isxd` files (from **INSCOPIX** software) into `.tiff` format.  
